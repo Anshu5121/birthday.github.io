@@ -1,0 +1,46 @@
+h1{
+    color: rgb(246, 14, 14);
+    text-align: center;
+    text-decoration: underline;
+    
+    
+}
+
+p{
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+    color: blue;
+}
+
+h2{
+    color: rgb(159, 15, 199);
+    font-weight: bold;
+    text-align: center;
+    
+    
+}
+
+#item{
+    color: darkblue;
+    font-weight: bold;
+    font-size: larger;
+    margin-left: 40%;
+}
+
+body{
+    background-color: rgb(231, 244, 134);
+}
+
+.cake{
+    border-radius: 100%;
+    border: 10px solid royalblue;
+    margin-left: 40%;
+    
+}
+
+.com{
+    
+    
+    text-align: center;
+}
